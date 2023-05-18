@@ -1,2 +1,3 @@
-# leetcode
-Problems from LeetCode that I solved.
+# LeetCode problems
+
+Here you can find various problems that I solved on LeetCode.
